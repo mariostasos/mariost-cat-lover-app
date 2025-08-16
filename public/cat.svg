@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <path d="M2 28 Q4 24 6 26 Q8 28 10 24 Q12 20 14 22" stroke="#FF6B35" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  
+  <ellipse cx="16" cy="22" rx="8" ry="6" fill="#FF6B35" stroke="#E55A2B" stroke-width="1"/>
+  
+  <ellipse cx="16" cy="12" rx="7" ry="6" fill="#FF6B35" stroke="#E55A2B" stroke-width="1"/>
+  
+  <path d="M10 8 L12 3 L15 8 Z" fill="#FF6B35" stroke="#E55A2B" stroke-width="1"/>
+  <path d="M11.5 7.5 L12.5 5 L13.5 7.5 Z" fill="#FFB5A0"/>
+  
+  <path d="M17 8 L20 3 L22 8 Z" fill="#FF6B35" stroke="#E55A2B" stroke-width="1"/>
+  <path d="M18.5 7.5 L19.5 5 L20.5 7.5 Z" fill="#FFB5A0"/>
+  
+  <ellipse cx="13" cy="11" rx="1.5" ry="2" fill="#2D3748"/>
+  <ellipse cx="13.3" cy="10.5" rx="0.5" ry="0.7" fill="#FFFFFF"/>
+  
+  <ellipse cx="19" cy="11" rx="1.5" ry="2" fill="#2D3748"/>
+  <ellipse cx="19.3" cy="10.5" rx="0.5" ry="0.7" fill="#FFFFFF"/>
+  
+  <path d="M16 13 L15 14.5 L17 14.5 Z" fill="#E55A2B"/>
+  
+  <path d="M16 14.5 Q14.5 16 13 15.5" stroke="#2D3748" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <path d="M16 14.5 Q17.5 16 19 15.5" stroke="#2D3748" stroke-width="1" fill="none" stroke-linecap="round"/>
+  
+  <line x1="8" y1="12" x2="12" y2="12" stroke="#2D3748" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="8" y1="13.5" x2="12" y2="13" stroke="#2D3748" stroke-width="0.8" stroke-linecap="round"/>
+  
+  <line x1="24" y1="12" x2="20" y2="12" stroke="#2D3748" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="24" y1="13.5" x2="20" y2="13" stroke="#2D3748" stroke-width="0.8" stroke-linecap="round"/>
+  
+  <ellipse cx="12" cy="26" rx="1.5" ry="3" fill="#FF6B35"/>
+  <ellipse cx="20" cy="26" rx="1.5" ry="3" fill="#FF6B35"/>
+  
+  <ellipse cx="12" cy="28.5" rx="2" ry="1.5" fill="#E55A2B"/>
+  <ellipse cx="20" cy="28.5" rx="2" ry="1.5" fill="#E55A2B"/>
+  
+  <ellipse cx="16" cy="21" rx="2" ry="3" fill="#FFB5A0" opacity="0.7"/>
+</svg>
